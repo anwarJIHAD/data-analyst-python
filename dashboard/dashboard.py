@@ -58,8 +58,8 @@ by_region, top_state = analyzer.create_bystate_df()
 status_info, frequent_status = analyzer.create_order_status()
 
 # Dashboard
-st.title("E-Commerce Analytics Dashboard")
-st.markdown("A visual analysis of e-commerce trends and patterns using public data.")
+st.title("analisa data e commerce")
+st.markdown("Sebuah visualisasi data e commerce yang lagi trand dengan menggunakan data yang public")
 
 # --- Section: Daily Orders ---
 st.subheader("Order Delivery Trend")
